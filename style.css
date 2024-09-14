@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+p{
+    color: white;
+    padding: 20px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.nav-item {
+    padding: 9px;
+}
+.flex-item{
+    background: cyan;
+    border: 1pt solid black;
+    width: 13px;
+    transition: 0.1s all ease;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    transition: 2s all ease;
+    margin: 0 30px;
+}
+.bar{
+    width: 60px;
+}
+.new-array{
+    margin-left: 30px;
+}
+.speed-div,.size-div{
+    display: flex;
+}
