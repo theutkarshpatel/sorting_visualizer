@@ -9,3 +9,5 @@ Welcome to the Sorting Visualizer! This tool helps you understand how different 
 - **Adjustable Speed**: Control the speed of the sorting process.
 
 Explore and learn the inner workings of sorting algorithms in an engaging and interactive way!
+
+## Deployed site - https://utkarsh-sorting-visualizer.netlify.app
